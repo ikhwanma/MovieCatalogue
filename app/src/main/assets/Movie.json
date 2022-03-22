@@ -1,0 +1,94 @@
+{
+	"movie":[
+	{
+		"title" : "Aquaman",
+		"image" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xLPffWMhMj1l50ND3KchMjYoKmE.jpg",
+		"date" :  "Juli 6, 2018",
+		"description" : "Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm's half-human, half-Atlantean brother and true heir to the throne.",
+		"pemain" : "Jason Momoa, Amber Heard, Willem Dafoe, Patrick Wilson, Nicole Kidman, Dolph Lundgren",
+		"genre" : "Aksi, Petualangan, Fantasi",
+		"url" : "https://www.themoviedb.org/movie/297802-aquaman"
+	}, 
+	{
+		"title" : "Infinity War",
+		"image" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+		"date" :"April 25, 2018",
+		"description" : "Karena Avengers dan sekutunya terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh seorang pahlawan, bahaya baru telah muncul dari bayangan kosmik: Thanos. Seorang lalim penghujatan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan yang tak terbayangkan, dan menggunakannya untuk menimbulkan kehendak memutar pada semua realitas. Segala sesuatu yang telah diperjuangkan oleh Avengers telah berkembang hingga saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih pasti.",
+		"pemain" : "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Tom Holland",
+		"genre" : "Petualangan, Aksi, Cerita Fiksi",
+		"url" : "https://www.themoviedb.org/movie/299536-avengers-infinity-war"
+	}, 
+	{
+		"title" : "Alita",
+		"image" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg",
+		"date" : "Januari 31, 2019",
+		"description" : "Ketika Alita terbangun tanpa ingatan tentang siapa dia di dunia masa depan yang tidak dia kenal, dia ditangkap oleh Ido, seorang dokter yang penuh kasih yang menyadari bahwa di suatu tempat dalam cangkang cyborg yang ditinggalkan ini adalah hati dan jiwa seorang wanita muda dengan luar biasa. lalu.",
+		"pemain" : "Rosa Salazar, Christoph Waltz, Jennifer Connelly, Mahershala Ali, Ed Skrein",
+		"genre" : "Aksi, Cerita Fiksi, Petualangan",
+		"url" : "https://www.themoviedb.org/movie/399579-alita-battle-angel"
+	}, 
+	{
+		"title" : "Master Z",
+		"image" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7S0rXJPS15mZMWQieiRUf7WuReX.jpg",
+		"date" : "Desember 20, 2018",
+		"description" : "Following his defeat by Master Ip, Cheung Tin Chi tries to make a life with his young son in Hong Kong, waiting tables at a bar that caters to expats. But it's not long before the mix of foreigners, money, and triad leaders draw him once again to the fight.",
+		"pemain" : "Zhang Jin, Dave Bautista, Liu Yan, Xing Yu, Michelle Yeoh, Tony Jaa",
+		"genre" : "Aksi",
+		"url" : "https://www.themoviedb.org/movie/450001-cheung-tin-chi"
+	}, 
+	{
+		"title" : "Mortal Engines",
+		"image" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg",
+		"date" : "November 27, 2018",
+		"description" : "Many thousands of years in the future, Earth’s cities roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive traction cities, the old London, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the wastelands who will change the course of his life forever.",
+		"pemain" :"Hester Shaw, Tom Natsworthy, Thaddeus Valentine, Anna Fang, Bevis Pod, Katherine Valentine",
+		"genre" : "Petualangan, Cerita Fiksi",
+		"url" : "https://www.themoviedb.org/movie/428078-mortal-engines"
+	}, 
+	{
+		"title" : "Overlord",
+		"image" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2Sfo3O54kTAAnBfZaCXrwimORSo.jpg",
+		"date" : "November 1, 2018",
+		"description" : "France, June 1944. On the eve of D-Day, some American paratroopers fall behind enemy lines after their aircraft crashes while on a mission to destroy a radio tower in a small village near the beaches of Normandy. After reaching their target, the surviving paratroopers realise that, in addition to fighting the Nazi troops that patrol the village, they also must fight against something else.",
+		"pemain" : "Jovan Adepo, Wyatt Russell, Pilou Asbæk, Mathilde Ollivier, John Magaro, Iain De Caestecker",
+		"genre" : "Kengerian, Kejahatan, Cerita Fiksi",
+		"url" : "https://www.themoviedb.org/movie/438799-overlord"
+	}, 
+	{
+		"title" : "Ralph",
+		"image" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/44cb3fCGKUaSxxIjI2ejrgeYfye.jpg",
+		"date" : "November 20, 2018",
+		"description" : "Petualangan Baru Ralph dan Vanellope akan berlanjut dalam Ralph Breaks the Internet. 6 tahun pasca Wreck-It Ralph, Ralph dan Vanellope kini semakin jauh menjelajah ke dunia maya.",
+		"pemain" : "John C. Reilly, Sarah Silverman, Gal Gadot, Taraji P. Henson, Jack McBrayer, Jane Lynch",
+		"genre" : "Keluarga, Animasi, Komedi, Petualangan",
+		"url" : "https://www.themoviedb.org/movie/404368-ralph-breaks-the-internet"
+	}, 
+	{
+		"title" :"Robin Hood",
+		"image" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9NS5QGOfck24yL3bZqWeW06PgPC.jpg",
+		"date" : "Mei 12, 2010",
+		"description" : "When soldier Robin happens upon the dying Robert of Loxley, he promises to return the man's sword to his family in Nottingham. There, he assumes Robert's identity; romances his widow, Marion; and draws the ire of the town's sheriff and King John's henchman, Godfrey",
+		"pemain" :"Russell Crowe, Cate Blanchett, Max von Sydow, William Hurt, Mark Strong, Oscar Isaac",
+		"genre" :"Petualangan",
+		"url" : "https://www.themoviedb.org/movie/20662-robin-hood"
+	}, 
+	{
+		"title" : "Serenity",
+		"image" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hgWAcic93phg4DOuQ8NrsgQWiqu.jpg",
+		"date" :"Januari 24, 2019",
+		"description" : "The quiet life of Baker Dill, a fishing boat captain who lives on the isolated Plymouth Island, where he spends his days obsessed with capturing an elusive tuna while fighting his personal demons, is interrupted when someone from his past comes to him searching for help.",
+		"pemain" : "Matthew McConaughey, Anne Hathaway, Jason Clarke, Diane Lane, Djimon Hounsou",
+		"genre" : "Cerita Seru, Misteri, Drama",
+		"url" :  "https://www.themoviedb.org/movie/452832-serenity"
+	}, 
+	{
+		"title" : "Spiderman",
+		"image" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+		"date" :"Desember 15, 2021",
+		"description" : "Peter Parker menghadapi masalah besar. Hal ini terjadi setelah identitasnya sebagai Spiderman terungkap. Dengan kepergian Tony Stark, Peter Parker pun harus meminta bantuan Doctor Strange agar semua orang bisa melupakan identitasnya sebagai manusia laba-laba.",
+		"pemain" : "Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon, Jon Favreau, Jamie Foxx",
+		"genre" : "Aksi, Petualangan, Cerita Fiksi",
+		"url" : "https://www.themoviedb.org/movie/634649-spider-man-no-way-home"
+	}
+	]
+}

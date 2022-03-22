@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="nama_film">Nama Film</string>
+    <string name="tanggal_rilis">Tanggal Rilis</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tv_show">Tv Show</string>
+    <string name="movie">Movie</string>
+    <string name="genre">Genre</string>
+    <string name="pemain">Pemain</string>
+    <string name="kunjungi_website">Kunjungi Website</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="image_film">Image Film</string>
+    <string name="logo">Logo</string>
+</resources>

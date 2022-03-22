@@ -1,0 +1,94 @@
+{
+	"tv_shows" : [
+	{
+		"title" : "Arrow",
+		"image" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg",
+		"date" :  "Oktober 10, 2012",
+		"description" : "Panah adalah menceritakan kembali petualangan dari legendaris DC pahlawan Green Arrow",
+		"pemain" : "Stephen Amell, David Ramsey, Emily Bett Rickards, Paul Blackthorne, Willa Holland",
+		"genre" : "Kejahatan, Drama, Misteri, Aksi & Petualangan",
+		"url" : "https://www.themoviedb.org/tv/1412-arrow"
+	},
+	{
+		"title" : "Doom Patrol",
+		"image" :"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kOAn06LmRCg4YiSStwrGL6UOQ3a.jpg",
+		"date" :  "Februari 15, 2019",
+		"description" : "The Doom Patrol’s members each suffered horrible accidents that gave them superhuman abilities — but also left them scarred and disfigured. Traumatized and downtrodden, the team found purpose through The Chief, who brought them together to investigate the weirdest phenomena in existence — and to protect Earth from what they find.",
+		"pemain" : "Diane Guerrero, April Bowlby, Joivan Wade, Riley Shanahan, Matthew Zuk",
+		"genre" : "Sci-fi & Fantasy, Drama",
+		"url" : "https://www.themoviedb.org/tv/79501-doom-patrol"
+	},
+	{
+		"title" : "Dragon Ball",
+		"image" :"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xs1BRXnY5kStzwdxyrl2HYJOJCq.jpg",
+		"date" :  "November 30, 2012",
+		"description" : "The series begins twelve years after Goku is seen leaving on Shenron not at the end of Dragon Ball GT, and diverges entirely into its own plot from there, on an alternate timeline from the one which shows Goku Jr. fighting Vegeta Jr. at the World Martial Arts Tournament. In this series, Majuub has reached new levels of power, and has honed the techniques taught to him by Goku. We also see Gotenks finally mature, and Vegeta more powerful than ever.",
+		"pemain" : "(We don't have any cast added to this TV Show.)",
+		"genre" : "Animasi",
+		"url" : "https://www.themoviedb.org/tv/118011-dragon-ball-absalon"
+	},
+	{
+		"title" : "Fairy Tail",
+		"image" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r6SjKZSsVbdwVZhdutu4qvRe63c.jpg",
+		"date" :  "Oktober 12, 2009",
+		"description" : "Lucy is a 17-year-old girl, who wants to be a full-fledged mage. One day when visiting Harujion Town, she meets Natsu, a young man who gets sick easily by any type of transportation. But Natsu isn't just any ordinary kid, he's a member of one of the world's most infamous mage guilds: Fairy Tail.",
+		"pemain" : "Yoshimitsu Shimoyama, Eiji Miyashita, Fuyuka Ono, Daisuke Namikawa, Masafumi Kimura",
+		"genre" : "Aksi & Petualangan, Animasi, Komedi, Sci-fi & Fantasy, Misteri",
+		"url" : "https://www.themoviedb.org/tv/46261-fairy-tail"
+	},
+	{
+		"title" : "Flash",
+		"image" :"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lJA2RCMfsWoskqlQhXPSLFQGXEJ.jpg",
+		"date" :  "Oktober 7, 2014",
+		"description" : "Setelah akselerator partikel menyebabkan badai aneh, Penyelidik CSI Barry Allen disambar petir dan jatuh koma. Beberapa bulan kemudian dia terbangun dengan kekuatan kecepatan super, memberinya kemampuan untuk bergerak melalui Central City seperti malaikat penjaga yang tak terlihat. Meskipun awalnya senang dengan kekuatan barunya, Barry terkejut menemukan bahwa dia bukan satu-satunya \"manusia meta\" yang diciptakan setelah ledakan akselerator - dan tidak semua orang menggunakan kekuatan baru mereka untuk kebaikan.",
+		"pemain" : "Grant Gustin, Candice Patton, Danielle Panabaker, Jesse L. Martin, Carlos Valdes",
+		"genre" : "Drama, Sci-fi & Fantasy",
+		"url" : "https://www.themoviedb.org/tv/60735-the-flash"
+	},
+	{
+		"title" : "Gotham",
+		"image" :"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iR3L0p59rOz1JZETXp0QvK5H4AZ.jpg",
+		"date" :  "September 22, 2014",
+		"description" : "Semua orang tahu nama Komisaris Gordon. Dia adalah salah satu musuh terbesar dunia kejahatan, seorang pria yang reputasinya identik dengan hukum dan ketertiban. Tapi apa yang diketahui tentang kisah Gordon dan kenaikannya dari detektif pemula ke Komisaris Polisi? Apa yang diperlukan untuk menavigasi berbagai lapisan korupsi yang diam-diam memerintah Kota Gotham, tempat bertelurnya penjahat paling ikonik di dunia?",
+		"pemain" : "Ben McKenzie, Donal Logue, David Mazouz, Sean Pertwee, Robin Lord Taylor",
+		"genre" : "Drama, Kejahatan, Sci-fi & Fantasy",
+		"url" : "https://www.themoviedb.org/tv/60708-gotham"
+	},
+	{
+		"title" : "Naruto Shippuden",
+		"image" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qOxedwaJzdms2alAmIEHEnDeDzg.jpg",
+		"date" :  "Februari 15, 2007",
+		"description" : "Naruto Shippuuden adalah kelanjutan dari serial TV animasi asli Naruto. Kisah ini berkisah tentang Uzumaki Naruto yang lebih tua dan sedikit lebih matang dan upayanya untuk menyelamatkan temannya Uchiha Sasuke dari cengkeraman Shinobi seperti ular, Orochimaru. Setelah 2 setengah tahun, Naruto akhirnya kembali ke desanya Konoha, dan mulai mewujudkan ambisinya, meskipun itu tidak akan mudah, karena Ia telah mengumpulkan beberapa musuh (lebih berbahaya), seperti organisasi shinobi. ; Akatsuki.",
+		"pemain" : "Jouji Nakata, Junko Takeuchi, Chie Nakamura, Noriaki Sugiyama, Kazuhiko Inoue",
+		"genre" : "Animasi, Aksi & Petualangan, Sci-fi & Fantasy",
+		"url" : "https://www.themoviedb.org/tv/31910-naruto-shipp-den"
+	},
+	{
+		"title" : "Super Natural",
+		"image" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fpTVtf4isFQMv8VPwp0FS9yB8tc.jpg",
+		"date" :  "Oktober 5, 2014",
+		"description" : "Small town Americana has been haunted for hundreds of years by monsters that weather created and folklore fostered.",
+		"pemain" : "Thom Pinto",
+		"genre" : "Dokumenter",
+		"url" : "https://www.themoviedb.org/tv/73756-american-super-natural"
+	},
+	{
+		"title" : "The Simpson",
+		"image" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k5UALlcA0EnviaCUn2wMjOWYiOO.jpg",
+		"date" :  "Desember 17, 1989",
+		"description" : "Bertempat di Springfield, kota rata-rata di Amerika, pertunjukan ini berfokus pada kejenakaan dan petualangan sehari-hari keluarga Simpson; Homer, Marge, Bart, Lisa dan Maggie, serta ribuan pemain virtual. Sejak awal, serial ini telah menjadi ikon budaya pop, menarik ratusan selebriti menjadi bintang tamu. Acara ini juga menjadi terkenal karena satirnya yang tak kenal takut terhadap kehidupan politik, media, dan Amerika secara umum.",
+		"pemain" : "Dan Castellaneta, Julie Kavner, Nancy Cartwright, Yeardley Smith, Hank Azaria",
+		"genre" : "Keluarga, Animasi, Komedi",
+		"url" : "https://www.themoviedb.org/tv/456-the-simpsons"
+	},
+	{
+		"title" : "The Walking Dead",
+		"image" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rqeYMLryjcawh2JeRpCVUDXYM5b.jpg",
+		"date" :  "Oktober 31, 2010",
+		"description" : "Wakil Sheriff Rick Grimes terbangun dari koma untuk menemukan dunia pasca-apokaliptik yang didominasi oleh zombie pemakan daging. Dia berangkat untuk menemukan keluarganya dan bertemu banyak penyintas lainnya di sepanjang jalan.",
+		"pemain" : "Norman Reedus, Melissa McBride, Lauren Cohan, Danai Gurira, Andrew Lincoln, Chandler Riggs",
+		"genre" : "Aksi & Petualangan, Drama, Sci-fi & Fantasy",
+		"url" : "https://www.themoviedb.org/tv/1402-the-walking-dead"
+	}
+	]
+}
